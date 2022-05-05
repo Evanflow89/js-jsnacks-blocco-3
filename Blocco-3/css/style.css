@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: auto;
+}
+
+.red,
+.green {
+    height: 500px;
+    width: 500px;
+}
