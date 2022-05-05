@@ -9,7 +9,7 @@ const N = Number(prompt("Inserisci un numero"));
 
 // Fintanto che N è maggiore di 0 crea un array
 
-while (N > 0) {
+while (N === 0) {
     const newArr = [];
 }
 
